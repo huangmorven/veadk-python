@@ -1,0 +1,50 @@
+docs/content/docs/framework/memory/long-term/tos-context.mdx
+  s_bc88a44e893e22::t_0372a86786890e 15-39,56,58,77,81,83,85,87
+  s_bc88a44e893e22::t_6b906b9ce504a6 12-14
+  s_bc88a44e893e22::t_3cfc11e2c4834a 40-42,53-55
+  s_bc88a44e893e22::t_af81036e426600 57
+  s_bc88a44e893e22::t_7dae0f3f26502a 59-61,74-76
+  s_bc88a44e893e22::t_b2049ac33e8889 78-80
+  s_bc88a44e893e22::t_4ebf5198410624 82
+  s_bc88a44e893e22::t_e5704294cd5041 84
+  s_bc88a44e893e22::t_f505a8e73d5ffe 86
+veadk/memory/long_term_memory_backends/tos_context_bucket_backend.py
+  s_bc88a44e893e22::t_5d3a90e6f13f0b 79-80
+  s_bc88a44e893e22::t_6d6de72d65f0be 28,38-78,132
+  s_bc88a44e893e22::t_7bc8b997c6e64f 109-110
+  s_bc88a44e893e22::t_a0278c61a11783 25-27
+  s_bc88a44e893e22::t_850e597fd0f4b2 29-31,35-37
+  s_bc88a44e893e22::t_7c3e1ec95f5977 81-83,106-108
+  s_bc88a44e893e22::t_1eb0037587ff14 111-113,129-131
+  s_bc88a44e893e22::t_327e3a5ccb83be 133-135
+docs/content/docs/framework/memory/long-term/tos-context.en.mdx
+  s_bc88a44e893e22::t_88866c6fc0046c 15-39,56,58,77,81,83,85,87
+  s_bc88a44e893e22::t_8d3949fe6375bf 12-14
+  s_bc88a44e893e22::t_a13355c7515aac 40-42,53-55
+  s_bc88a44e893e22::t_4481b76a319fbf 57
+  s_bc88a44e893e22::t_0651f76f0da64b 59-61,74-76
+  s_bc88a44e893e22::t_00c72b6010359c 78-80
+  s_bc88a44e893e22::t_4c6b59470436f1 82
+  s_bc88a44e893e22::t_ce3c3369111126 84
+  s_bc88a44e893e22::t_6b1f6e9cf49673 86
+pyproject.toml
+  s_bc88a44e893e22::t_7db09df303807b 51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "168327d42908dee0336c5aaf2574c583c06b33d2",
+  "prompts": {},
+  "sessions": {
+    "s_bc88a44e893e22": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a5db8639d321b941861ed98",
+        "model": "openrouter-3o__dev"
+      },
+      "human_author": "huangmeng <huangmeng.morven@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
