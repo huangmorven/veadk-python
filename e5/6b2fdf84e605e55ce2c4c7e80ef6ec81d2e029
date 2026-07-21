@@ -1,0 +1,76 @@
+veadk/memory/long_term_memory.py
+  s_bc88a44e893e22::t_83d6b5bf1f81d1 106 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a5f309a9d321b941861faba","tool_type":"agent","tool_id":"Edit","line_ranges":[{"Single":106}]}]}
+veadk/memory/long_term_memory_backends/tos_context_bucket_backend.py
+  s_bc88a44e893e22::t_5bf6b45cb961b5 210-236 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a5f31f19d321b941861facf","tool_type":"agent","tool_id":"Edit","line_ranges":[{"Range":[210,236]}]}]}
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e56b2fdf84e605e55ce2c4c7e80ef6ec81d2e029",
+  "prompts": {},
+  "sessions": {
+    "s_bc88a44e893e22": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a5db8639d321b941861ed98",
+        "model": "openrouter-3o__dev"
+      },
+      "human_author": "huangmeng <huangmeng.morven@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {
+    "veadk/memory/long_term_memory.py": [
+      {
+        "hash": "s_bc88a44e893e22::t_83d6b5bf1f81d1",
+        "line_ranges": [
+          {
+            "Single": 106
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a5f309a9d321b941861faba",
+            "tool_type": "agent",
+            "tool_id": "Edit",
+            "line_ranges": [
+              {
+                "Single": 106
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "veadk/memory/long_term_memory_backends/tos_context_bucket_backend.py": [
+      {
+        "hash": "s_bc88a44e893e22::t_5bf6b45cb961b5",
+        "line_ranges": [
+          {
+            "Range": [
+              210,
+              236
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a5f31f19d321b941861facf",
+            "tool_type": "agent",
+            "tool_id": "Edit",
+            "line_ranges": [
+              {
+                "Range": [
+                  210,
+                  236
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
