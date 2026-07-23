@@ -1,0 +1,23 @@
+docs/content/docs/framework/memory/long-term/index.en.mdx
+  s_bc88a44e893e22::t_b37cfe592404c5 73
+docs/content/docs/framework/memory/long-term/index.mdx
+  s_bc88a44e893e22::t_cbc51c2cc0b4a8 73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "82857346cb0d2d135c2a2efb5d0d8da95609b6ee",
+  "prompts": {},
+  "sessions": {
+    "s_bc88a44e893e22": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a5db8639d321b941861ed98",
+        "model": "openrouter-3o__dev"
+      },
+      "human_author": "huangmeng <huangmeng.morven@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
